@@ -1,0 +1,4 @@
+instance-type:t3.nano
+key-name:web
+image-id:ami-0b5eea76982371e91
+security-group:sg-003537d059c56efcc
